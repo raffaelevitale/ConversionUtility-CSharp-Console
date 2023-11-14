@@ -1,0 +1,15 @@
+C:/Users/luzip/Documents/SCUOLA/CODICE C# 3 ANNO/CONVERSIONI_solution/CONVERSIONI/bin/Debug/CONVERSIONI.exe.config
+C:/Users/luzip/Documents/SCUOLA/CODICE C# 3 ANNO/CONVERSIONI_solution/CONVERSIONI/bin/Debug/CONVERSIONI.exe
+C:/Users/luzip/Documents/SCUOLA/CODICE C# 3 ANNO/CONVERSIONI_solution/CONVERSIONI/bin/Debug/CONVERSIONI.pdb
+C:/Users/luzip/Documents/SCUOLA/CODICE C# 3 ANNO/CONVERSIONI_solution/CONVERSIONI/obj/Debug/CONVERSIONI.csproj.AssemblyReference.cache
+C:/Users/luzip/Documents/SCUOLA/CODICE C# 3 ANNO/CONVERSIONI_solution/CONVERSIONI/obj/Debug/CONVERSIONI.csproj.SuggestedBindingRedirects.cache
+C:/Users/luzip/Documents/SCUOLA/CODICE C# 3 ANNO/CONVERSIONI_solution/CONVERSIONI/obj/Debug/CONVERSIONI.csproj.CoreCompileInputs.cache
+C:/Users/luzip/Documents/SCUOLA/CODICE C# 3 ANNO/CONVERSIONI_solution/CONVERSIONI/obj/Debug/CONVERSIONI.exe
+C:/Users/luzip/Documents/SCUOLA/CODICE C# 3 ANNO/CONVERSIONI_solution/CONVERSIONI/obj/Debug/CONVERSIONI.pdb
+/Users/raffaelevitale/Scuola/Scuola/Console C#/Algoritmi Conversioni/CONVERSIONI_solution/CONVERSIONI/bin/Debug/CONVERSIONI.exe.config
+/Users/raffaelevitale/Scuola/Scuola/Console C#/Algoritmi Conversioni/CONVERSIONI_solution/CONVERSIONI/bin/Debug/CONVERSIONI.exe
+/Users/raffaelevitale/Scuola/Scuola/Console C#/Algoritmi Conversioni/CONVERSIONI_solution/CONVERSIONI/bin/Debug/CONVERSIONI.pdb
+/Users/raffaelevitale/Scuola/Scuola/Console C#/Algoritmi Conversioni/CONVERSIONI_solution/CONVERSIONI/obj/Debug/CONVERSIONI.csproj.AssemblyReference.cache
+/Users/raffaelevitale/Scuola/Scuola/Console C#/Algoritmi Conversioni/CONVERSIONI_solution/CONVERSIONI/obj/Debug/CONVERSIONI.csproj.CoreCompileInputs.cache
+/Users/raffaelevitale/Scuola/Scuola/Console C#/Algoritmi Conversioni/CONVERSIONI_solution/CONVERSIONI/obj/Debug/CONVERSIONI.exe
+/Users/raffaelevitale/Scuola/Scuola/Console C#/Algoritmi Conversioni/CONVERSIONI_solution/CONVERSIONI/obj/Debug/CONVERSIONI.pdb
